@@ -946,10 +946,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d5ca476627bc6f94c82220ceafcf7186, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Jumpforce: 5
+  Jumpforce: 10
   rb2D: {fileID: 523718128}
   gameOverScreen: {fileID: 160220717}
   Points: 0
+  animator: {fileID: 523718130}
 --- !u!95 &523718130
 Animator:
   serializedVersion: 7
